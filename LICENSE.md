@@ -1,4 +1,4 @@
-#  
+#  Enhance Obsidian for macOS with custom Obsidian for macOS Macro | auto-sync + tags, the #1 macro. Includes auto-sync and tags for a smoother experience.
 
 
 
